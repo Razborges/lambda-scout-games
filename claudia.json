@@ -1,0 +1,10 @@
+{
+  "lambda": {
+    "role": "lambda-scout-games-executor",
+    "name": "lambda-scout-games",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "fi79781l27"
+  }
+}
